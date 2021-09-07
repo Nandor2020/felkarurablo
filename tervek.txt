@@ -1,1 +1,2 @@
-A kurvajo program terve.txt
+A kurvajo program tervek.txt
+Kurvanagy egom van, de nem baj.
